@@ -1,0 +1,2 @@
+# High-Fidelity-Cloud-Simulation-Scaling-Testbed-for-UPI-Retail-Network
+This project make use of a UPI based cloud stimulation environment to enhance the Retailer and Consumer interface with strict security practices and best scaling practices with a cost optimised cloud architecture. I have designed the system after analyzing the trade offs of each tool, I have discussed them detail in README file, kindly refer it. 
