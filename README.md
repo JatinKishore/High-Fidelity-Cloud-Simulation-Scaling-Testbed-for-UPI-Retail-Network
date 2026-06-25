@@ -9,7 +9,8 @@ The primary objective of this testbed is to evaluate the trade-offs between syst
 ---
 
 ## 2. Architectural Design
-![High-Fidelity Simulation Topology](images/Overview Architecture.png)
+![Architecture Overview](Images/Overview%20Architecture.png)
+
 The simulation environment is architected as a distributed system, mimicking the modularity of production-grade financial gateways.
 
 ### Service Decomposition
